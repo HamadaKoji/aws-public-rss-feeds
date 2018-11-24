@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <body>
+        <outline text="Amazon Blog" title="Amazon blog">
+            <outline type="rss" text="AWS News Blog" title="AWS News Blog" htmlUrl="https://aws.amazon.com/blogs/aws/" xmlUrl="https://aws.amazon.com/blogs/aws/feed" />
+            <outline type="rss" text="AWS Architecture Blog" title="AWS Architecture Blog" htmlUrl="https://aws.amazon.com/blogs/architecture/" xmlUrl="https://aws.amazon.com/blogs/architecture/feed" />
+            <outline type="rss" text="AWS Partner Network (APN) Blog" title="AWS Partner Network (APN) Blog" htmlUrl="https://aws.amazon.com/blogs/apn/" xmlUrl="https://aws.amazon.com/blogs/apn/feed" />
+            <outline type="rss" text="AWS Marketplace" title="AWS Marketplace" htmlUrl="https://aws.amazon.com/blogs/awsmarketplace/" xmlUrl="https://aws.amazon.com/blogs/awsmarketplace/feed" />
+            <outline type="rss" text="AWS Big Data Blog" title="AWS Big Data Blog" htmlUrl="https://aws.amazon.com/blogs/big-data/" xmlUrl="https://aws.amazon.com/blogs/big-data/feed" />
+            <outline type="rss" text="AWS Compute Blog" title="AWS Compute Blog" htmlUrl="https://aws.amazon.com/blogs/compute/" xmlUrl="https://aws.amazon.com/blogs/compute/feed" />
+            <outline type="rss" text="AWS Database Blog" title="AWS Database Blog" htmlUrl="https://aws.amazon.com/blogs/database/" xmlUrl="https://aws.amazon.com/blogs/database/feed" />
+            <outline type="rss" text="AWS Desktop and Application Streaming Blog" title="AWS Desktop and Application Streaming Blog" htmlUrl="https://aws.amazon.com/blogs/desktop-and-application-streaming/" xmlUrl="https://aws.amazon.com/blogs/desktop-and-application-streaming/feed" />
+            <outline type="rss" text="AWS Developer Blog" title="AWS Developer Blog" htmlUrl="https://aws.amazon.com/blogs/developer/" xmlUrl="https://aws.amazon.com/blogs/developer/feed" />
+            <outline type="rss" text="AWS DevOps Blog" title="AWS DevOps Blog" htmlUrl="https://aws.amazon.com/blogs/devops/" xmlUrl="https://aws.amazon.com/blogs/devops/feed" />
+            <outline type="rss" text="AWS Cloud Enterprise Strategy Blog" title="AWS Cloud Enterprise Strategy Blog" htmlUrl="https://aws.amazon.com/blogs/enterprise-strategy/" xmlUrl="https://aws.amazon.com/blogs/enterprise-strategy/feed" />
+            <outline type="rss" text="AWS Game Tech Blog" title="AWS Game Tech Blog" htmlUrl="https://aws.amazon.com/blogs/gametech/" xmlUrl="https://aws.amazon.com/blogs/gametech/feed" />
+            <outline type="rss" text="AWS The Internet of Things Blog" title="AWS The Internet of Things Blog" htmlUrl="https://aws.amazon.com/blogs/iot/" xmlUrl="https://aws.amazon.com/blogs/iot/feed" />
+            <outline type="rss" text="AWS Machine Learning Blog" title="AWS Machine Learning Blog" htmlUrl="https://aws.amazon.com/blogs/machine-learning/" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" />
+            <outline type="rss" text="AWS Management Tools Blog" title="AWS Management Tools Blog" htmlUrl="https://aws.amazon.com/blogs/mt/" xmlUrl="https://aws.amazon.com/blogs/mt/feed" />
+            <outline type="rss" text="AWS Media Blog" title="AWS Media Blog" htmlUrl="https://aws.amazon.com/blogs/media/" xmlUrl="https://aws.amazon.com/blogs/media/feed" />
+            <outline type="rss" text="AWS Messaging and Targeting Blog" title="AWS Messaging and Targeting Blog" htmlUrl="https://aws.amazon.com/blogs/messaging-and-targeting/" xmlUrl="https://aws.amazon.com/blogs/messaging-and-targeting/feed" />
+            <outline type="rss" text="AWS Mobile Blog" title="AWS Mobile Blog" htmlUrl="https://aws.amazon.com/blogs/mobile/" xmlUrl="https://aws.amazon.com/blogs/mobile/feed" />
+            <outline type="rss" text="AWS Networking and Content Delivery" title="AWS Networking and Content Delivery" htmlUrl="https://aws.amazon.com/blogs/networking-and-content-delivery/" xmlUrl="https://aws.amazon.com/blogs/networking-and-content-delivery/feed" />
+            <outline type="rss" text="AWS Open Source Blog" title="AWS Open Source Blog" htmlUrl="https://aws.amazon.com/blogs/opensource/" xmlUrl="https://aws.amazon.com/blogs/opensource/feed" />
+            <outline type="rss" text="AWS Government, Education, and Nonprofits Blog" title="AWS Government, Education, and Nonprofits Blog" htmlUrl="https://aws.amazon.com/blogs/publicsector/" xmlUrl="https://aws.amazon.com/blogs/publicsector/feed" />
+            <outline type="rss" text="AWS for SAP" title="AWS for SAP" htmlUrl="https://aws.amazon.com/blogs/awsforsap/" xmlUrl="https://aws.amazon.com/blogs/awsforsap/feed" />
+            <outline type="rss" text="AWS Security Blog" title="AWS Security Blog" htmlUrl="https://aws.amazon.com/blogs/security/" xmlUrl="https://aws.amazon.com/blogs/security/feed" />
+            <outline type="rss" text="AWS Startups Blog" title="AWS Startups Blog" htmlUrl="https://aws.amazon.com/blogs/startups/" xmlUrl="https://aws.amazon.com/blogs/startups/feed" />
+            <outline type="rss" text="AWS Japan Blog" title="AWS Japan Blog" htmlUrl="https://aws.amazon.com/jp/blogs/news/" xmlUrl="https://aws.amazon.com/jp/blogs/news/feed" />
+        </outline>
+        <outline text="AWS Youtube Channel" title="AWS Youtube Channel">
+            <outline type="rss" text="AWS" title="AWS" htmlUrl="https://www.youtube.com/user/AmazonWebServices" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=AmazonWebServices" />
+            <outline type="rss" text="AWS - Webinar Channel" title="AWS - Webinar Channel" htmlUrl="https://www.youtube.com/user/AWSwebinars/" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=AWSwebinars" />
+            <outline type="rss" text="AWS - Japan" title="AWS - Japan" htmlUrl="https://www.youtube.com/user/AmazonWebServicesJP/" xmlUrl="https://www.youtube.com/feeds/videos.xml?user=AmazonWebServicesJP" />
+        </outline>
+        <outline text="AWS Podcast" title="AWS Podcast">
+            <outline type="rss" text="AWS Podcast" title="AWS Podcast" htmlUrl="https://aws.amazon.com/jp/podcasts/aws-podcast/" xmlUrl="https://d3gih7jbfe3jlq.cloudfront.net/aws-podcast.rss" />
+        </outline>        
+        <outline text="AWS Security" title="AWS Security">
+            <outline type="rss" text="Amazon Linux Security Center" title="Amazon Linux Security Center" htmlUrl="https://alas.aws.amazon.com/" xmlUrl="https://alas.aws.amazon.com/alas.rss" />
+        </outline>        
+    </body>
+</opml>

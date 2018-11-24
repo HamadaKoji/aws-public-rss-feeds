@@ -1,11 +1,15 @@
 # aws-public-rss-feeds
+
 Rss Feeds of AWS official information
 
 AWSの公式情報を一括取得、設定するためのOPMLファイルです。
 
 ## Usage
 
-任意のRSSリーダーにOPMLファイルをインストールしてください。
+任意のRSSリーダーにOPMLファイルをインポートしてご利用ください。
+
+
+
 
 
 ## Author
