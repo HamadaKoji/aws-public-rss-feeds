@@ -44,7 +44,7 @@
             <outline type="rss" text="AWS X-Ray" title="AWS X-Ray" htmlUrl="https://docs.aws.amazon.com/codestar/latest/userguide/aws-codestar-user-guide-updates.rss" xmlUrl="" />
         </outline>
         <outline text="05-SecurityIdentityCompliance" title="05-SecurityIdentityCompliance">
-            <outline type="rss" text="AWS Identity & Access Management" title="AWS Identity & Access Management" htmlUrl="https://docs.aws.amazon.com/IAM/latest/UserGuide/document-history.html" xmlUrl="https://docs.aws.amazon.com/IAM/latest/UserGuide/aws-iam-release-notes.rss" />
+            <outline type="rss" text="AWS Identity and Access Management" title="AWS Identity and Access Management" htmlUrl="https://docs.aws.amazon.com/IAM/latest/UserGuide/document-history.html" xmlUrl="https://docs.aws.amazon.com/IAM/latest/UserGuide/aws-iam-release-notes.rss" />
             <outline type="rss" text="AWS Artifact" title="AWS Artifact" htmlUrl="https://docs.aws.amazon.com/artifact/latest/ug/doc-history.html" xmlUrl="https://docs.aws.amazon.com/artifact/latest/ug/amazon-art-release-notes.rss" />
             <outline type="rss" text="AWS Certificate Manager" title="AWS Certificate Manager" htmlUrl="https://docs.aws.amazon.com/acm/latest/userguide/dochistory.html" xmlUrl="https://docs.aws.amazon.com/acm/latest/userguide/aws-certificate-manager-release-notes.rss" />
             <outline type="rss" text="AWS CloudHSM" title="AWS CloudHSM" htmlUrl="https://docs.aws.amazon.com/cloudhsm/latest/userguide/document-history.html" xmlUrl="https://docs.aws.amazon.com/cloudhsm/latest/userguide/amazon-cloudhsm-release-notes.rss" />
