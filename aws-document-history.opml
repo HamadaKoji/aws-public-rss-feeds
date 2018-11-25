@@ -144,7 +144,7 @@
             <outline type="rss" text="Amazon MQ" title="Amazon MQ" htmlUrl="https://docs.aws.amazon.com/amazon-mq/latest/developer-guide/amazon-mq-release-notes.html" xmlUrl="https://docs.aws.amazon.com/amazon-mq/latest/developer-guide/recent-updates.rss" />
             <outline type="rss" text="Amazon SNS" title="Amazon SNS" htmlUrl="https://docs.aws.amazon.com/sns/latest/dg/document-history.html" xmlUrl="" />
             <outline type="rss" text="Amazon SQS" title="Amazon SQS" htmlUrl="https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-release-notes.html" xmlUrl="https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/recent-updates.rss" />
-            <outline type="rss" text="AWS Step Functions" title="AWS Step Functions" htmlUrl="https://docs.aws.amazon.com/step-functions/latest/dg/document-history.html" xmlUrl="https://docs.aws.amazon.com/step-functions/latest/dg/document-history.html" />
+            <outline type="rss" text="AWS Step Functions" title="AWS Step Functions" htmlUrl="https://docs.aws.amazon.com/step-functions/latest/dg/document-history.html" xmlUrl="https://docs.aws.amazon.com/step-functions/latest/dg/recent-updates.rss" />
             <outline type="rss" text="Amazon SWF" title="Amazon SWF" htmlUrl="https://docs.aws.amazon.com/amazonswf/latest/developerguide/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/amazonswf/latest/developerguide/recent-updates.rss" />
         </outline>
         <outline text="15-BusinessApplications" title="15-BusinessApplications">
