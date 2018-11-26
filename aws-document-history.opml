@@ -2,7 +2,7 @@
 <opml version="1.0">
     <body>
         <outline text="01_Compute" title="01-Compute">
-            <outline type="rss" text="AWS Batch" title="AWS Batch" htmlUrl="https://docs.aws.amazon.com/batch/latest/userguide/document_history.html" xmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-ec2-release-notes.rss" />
+            <outline type="rss" text="AWS Batch" title="AWS Batch" htmlUrl="https://docs.aws.amazon.com/batch/latest/userguide/document_history.html" xmlUrl="https://docs.aws.amazon.com/batch/latest/userguide/document_history.rss" />
             <outline type="rss" text="Amazon EC2（Linux）" title="Amazon EC2（Linux）" htmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-ec2-release-notes.rss" />
             <outline type="rss" text="Amazon EC2（Windows）" title="Amazon EC2（Windows）" htmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/amazon-ec2-release-notes.rss" />
             <outline type="rss" text="Amazon EC2（Auto Scaling）" title="Amazon EC2（Auto Scaling）" htmlUrl="https://docs.aws.amazon.com/autoscaling/ec2/userguide/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/autoscaling/ec2/userguide/CHAP_DocumentHistory.rss" />
