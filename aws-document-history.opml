@@ -30,7 +30,7 @@
             <outline type="rss" text="Amazon DynamoDB" title="Amazon DynamoDB" htmlUrl="https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/dynamodbupdates.rss" />
             <outline type="rss" text="Amazon ElastiCache(Redis)" title="Amazon ElastiCache(Redis)" htmlUrl="https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/amazon-elcr-release-notes.rss" />
             <outline type="rss" text="Amazon ElastiCache(Memcached)" title="Amazon ElastiCache(Memcached)" htmlUrl="https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/amazon-elcm-release-notes.rss" />
-            <outline type="rss" text="Amazon Neptune" title="Amazon Neptune" htmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/testupdates.rss" />
+            <outline type="rss" text="Amazon Neptune" title="Amazon Neptune" htmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/rssupdates.rss" />
             <outline type="rss" text="Amazon RDS" title="Amazon RDS" htmlUrl="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rdsupdates.rss" />
             <outline type="rss" text="Amazon Redshift(Getting Started)" title="Amazon Redshift(Getting Started)" htmlUrl="https://docs.aws.amazon.com/redshift/latest/gsg/document-history.html" xmlUrl="" />
             <outline type="rss" text="Amazon Redshift" title="Amazon Redshift" htmlUrl="https://docs.aws.amazon.com/redshift/latest/dg/doc-history.html" xmlUrl="https://docs.aws.amazon.com/redshift/latest/dg/Dochistory.rss" />
@@ -191,7 +191,7 @@
             <outline type="rss" text="Amazon Sumerian" title="Amazon Sumerian" htmlUrl="https://docs.aws.amazon.com/sumerian/latest/userguide/amazon-sumerian.html" xmlUrl="" />
         </outline>
         <outline text="21-CustomerEngagement" title="21-CustomerEngagement">
-            <outline type="rss" text="Amazon Connect" title="Amazon Connect" htmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/amazon-connect-release-notes.rss" />
+            <outline type="rss" text="Amazon Connect" title="Amazon Connect" htmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/doc-history.html" xmlUrl="" />
             <outline type="rss" text="Amazon Pinpoint" title="Amazon Pinpoint" htmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/doc-history.html" xmlUrl="" />
             <outline type="rss" text="Amazon Simple Email Service" title="Amazon Simple Email Service" htmlUrl="https://docs.aws.amazon.com/ses/latest/DeveloperGuide/doc-history.html" xmlUrl="" />
         </outline>
