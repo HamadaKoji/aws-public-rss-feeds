@@ -175,7 +175,7 @@
             <outline type="rss" text="AWS IoT Core" title="AWS IoT Core" htmlUrl="https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html" xmlUrl="" />
             <outline type="rss" text="AWS IoT Device Defender" title="AWS IoT Device Defender" htmlUrl="https://docs.aws.amazon.com/iot/latest/developerguide/device-defender.html" xmlUrl="" />
             <outline type="rss" text="AWS IoT Device Management" title="AWS IoT Device Management" htmlUrl="https://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html" xmlUrl="" />
-            <outline type="rss" text="AWS IoT Things Graph" title="AWS IoT Things Graph" htmlUrl="https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html" xmlUrl="https://docs.aws.amazon.com/thingsgraph/latest/ug/amazon-things-graph.rss" />
+            <outline type="rss" text="AWS IoT Things Graph" title="AWS IoT Things Graph" htmlUrl="https://docs.aws.amazon.com/thingsgraph/latest/ug/iot-tg-whatis.html" xmlUrl="" />
         </outline>
         <outline text="17-Robotics" title="17-Robotics">
             <outline type="rss" text="AWS RoboMaker" title="AWS RoboMaker" htmlUrl="https://docs.aws.amazon.com/robomaker/latest/dg/doc-history.html" xmlUrl="" />
