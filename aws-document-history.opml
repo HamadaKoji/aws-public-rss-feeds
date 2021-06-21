@@ -5,7 +5,7 @@
             <outline type="rss" text="Amazon EC2（Linux）" title="Amazon EC2（Linux）" htmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/amazon-ec2-release-notes.rss" />
             <outline type="rss" text="Amazon EC2（Windows）" title="Amazon EC2（Windows）" htmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/amazon-ec2-release-notes.rss" />
             <outline type="rss" text="Amazon EC2（Auto Scaling）" title="Amazon EC2（Auto Scaling）" htmlUrl="https://docs.aws.amazon.com/autoscaling/ec2/userguide/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/autoscaling/ec2/userguide/CHAP_DocumentHistory.rss" />
-            <outline type="rss" text="Amazon EC2（Application Discovery）" title="Amazon EC2（Application Discovery）" htmlUrl="https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html" xmlUrl="" />
+            <outline type="rss" text="Amazon EC2（Application Discovery）" title="Amazon EC2（Application Discovery）" htmlUrl="https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/application-discovery/latest/userguide/aws-application-discovery-service-user-guide-updates.rss" />
             <outline type="rss" text="AWS Batch" title="AWS Batch" htmlUrl="https://docs.aws.amazon.com/batch/latest/userguide/document_history.html" xmlUrl="https://docs.aws.amazon.com/batch/latest/userguide/document_history.rss" />
             <outline type="rss" text="Amazon ECR" title="Amazon ECR" htmlUrl="https://docs.aws.amazon.com/AmazonECR/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/AmazonECR/latest/userguide/amazon-ecr-release-notes.rss" />
             <outline type="rss" text="Amazon ECS" title="Amazon ECS" htmlUrl="https://docs.aws.amazon.com/AmazonECS/latest/developerguide/document_history.html" xmlUrl="https://docs.aws.amazon.com/AmazonECS/latest/developerguide/amazon-ecs-release-notes.rss" />
@@ -30,15 +30,15 @@
             <outline type="rss" text="Amazon DynamoDB" title="Amazon DynamoDB" htmlUrl="https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/dynamodbupdates.rss" />
             <outline type="rss" text="Amazon ElastiCache(Redis)" title="Amazon ElastiCache(Redis)" htmlUrl="https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/AmazonElastiCache/latest/red-ug/amazon-elcr-release-notes.rss" />
             <outline type="rss" text="Amazon ElastiCache(Memcached)" title="Amazon ElastiCache(Memcached)" htmlUrl="https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/AmazonElastiCache/latest/mem-ug/amazon-elcm-release-notes.rss" />
-            <outline type="rss" text="Amazon Neptune" title="Amazon Neptune" htmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/testupdates.rss" />
+            <outline type="rss" text="Amazon Neptune" title="Amazon Neptune" htmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/neptune/latest/userguide/rssupdates.rss" />
             <outline type="rss" text="Amazon RDS" title="Amazon RDS" htmlUrl="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rdsupdates.rss" />
             <outline type="rss" text="Amazon Redshift(Getting Started)" title="Amazon Redshift(Getting Started)" htmlUrl="https://docs.aws.amazon.com/redshift/latest/gsg/document-history.html" xmlUrl="" />
             <outline type="rss" text="Amazon Redshift" title="Amazon Redshift" htmlUrl="https://docs.aws.amazon.com/redshift/latest/dg/doc-history.html" xmlUrl="https://docs.aws.amazon.com/redshift/latest/dg/Dochistory.rss" />
         </outline>
         <outline text="04-DeveloperTools" title="04-DeveloperTools">
-            <outline type="rss" text="AWS Cloud9" title="AWS Cloud9" htmlUrl="https://docs.aws.amazon.com/cloud9/latest/user-guide/history.html" xmlUrl="" />
+            <outline type="rss" text="AWS Cloud9" title="AWS Cloud9" htmlUrl="https://docs.aws.amazon.com/cloud9/latest/user-guide/history.html" xmlUrl="https://docs.aws.amazon.com/cloud9/latest/user-guide/aws-cloud9-user-guide-updates.rss" />
             <outline type="rss" text="AWS Codebuild" title="AWS Codebuild" htmlUrl="https://docs.aws.amazon.com/codebuild/latest/userguide/history.html" xmlUrl="https://docs.aws.amazon.com/codebuild/latest/userguide/aws-codebuild-user-guide-updates.rss" />
-            <outline type="rss" text="AWS CodeCommit" title="AWS CodeCommit" htmlUrl="https://docs.aws.amazon.com/codecommit/latest/userguide/history.html" xmlUrl="" />
+            <outline type="rss" text="AWS CodeCommit" title="AWS CodeCommit" htmlUrl="https://docs.aws.amazon.com/codecommit/latest/userguide/history.html" xmlUrl="https://docs.aws.amazon.com/codecommit/latest/userguide/aws-codecommit-document-history.rss" />
             <outline type="rss" text="AWS CodeDeploy" title="AWS CodeDeploy" htmlUrl="https://docs.aws.amazon.com/codedeploy/latest/userguide/document-history.html" xmlUrl="https://docs.aws.amazon.com/codedeploy/latest/userguide/aws-codedeploy-user-guide-updates.rss" />
             <outline type="rss" text="AWS CodePipeline" title="AWS CodePipeline" htmlUrl="https://docs.aws.amazon.com/codepipeline/latest/userguide/history.html" xmlUrl="https://docs.aws.amazon.com/codepipeline/latest/userguide/aws-codepipeline-user-guide-updates.rss" />
             <outline type="rss" text="AWS CodeStar" title="AWS CodeStar" htmlUrl="https://docs.aws.amazon.com/codestar/latest/userguide/history.html" xmlUrl="https://docs.aws.amazon.com/codestar/latest/userguide/aws-codestar-user-guide-updates.rss" />
@@ -58,7 +58,7 @@
             <outline type="rss" text="AWS Key Management Service" title="AWS Key Management Service" htmlUrl="https://docs.aws.amazon.com/kms/latest/developerguide/dochistory.html" xmlUrl="https://docs.aws.amazon.com/kms/latest/developerguide/aws-kms-document-history.rss" />
             <outline type="rss" text="Amazon Macie" title="Amazon Macie" htmlUrl="https://docs.aws.amazon.com/macie/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/macie/latest/userguide/amazon-macie-doc-history.rss" />
             <outline type="rss" text="AWS Organizations" title="AWS Organizations" htmlUrl="https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html" xmlUrl="https://docs.aws.amazon.com/organizations/latest/userguide/aws-organizations-release-notes.rss" />
-            <outline type="rss" text="AWS Resource Access Manager" title="AWS Resource Access Manager" htmlUrl="https://docs.aws.amazon.com/ram/latest/userguide/doc-history.html" xmlUrl="" />
+            <outline type="rss" text="AWS Resource Access Manager" title="AWS Resource Access Manager" htmlUrl="https://docs.aws.amazon.com/ram/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/ram/latest/userguide/aws-ram-release-notes.rss" />
             <outline type="rss" text="AWS Secrets Manager" title="AWS Secrets Manager" htmlUrl="https://docs.aws.amazon.com/secretsmanager/latest/userguide/document-history.html" xmlUrl="https://docs.aws.amazon.com/secretsmanager/latest/userguide/aws-secretsmanager-documentation-updates.rss" />
             <outline type="rss" text="AWS Shield" title="AWS Shield" htmlUrl="https://docs.aws.amazon.com/waf/latest/developerguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/waf/latest/developerguide/aws-waf-doc-history.rss" />
             <outline type="rss" text="AWS Single Sign-On" title="AWS Single Sign-On" htmlUrl="https://docs.aws.amazon.com/singlesignon/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/singlesignon/latest/userguide/aws-single-sign-on-user-guide-doc-history.rss" />
@@ -82,22 +82,22 @@
         <outline text="07-ManagementTools" title="07-ManagementTools">
             <outline type="rss" text="AWS Auto Scaling" title="AWS Auto Scaling" htmlUrl="https://docs.aws.amazon.com/autoscaling/plans/userguide/auto-scaling-doc-history.html" xmlUrl="https://docs.aws.amazon.com/autoscaling/plans/userguide/doc-history.rss" />
             <outline type="rss" text="AWS CloudFormation" title="AWS CloudFormation" htmlUrl="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/ReleaseHistory.html" xmlUrl="https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-cloudformation-release-notes.rss" />
-            <outline type="rss" text="AWS CloudTrail" title="AWS CloudTrail" htmlUrl="https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-document-history.html" xmlUrl="" />
+            <outline type="rss" text="AWS CloudTrail" title="AWS CloudTrail" htmlUrl="https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-document-history.html" xmlUrl="https://docs.aws.amazon.com/awscloudtrail/latest/userguide/aws-cloudtrail-document-history.rss" />
             <outline type="rss" text="Amazon CloudWatch" title="Amazon CloudWatch" htmlUrl="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/DocumentHistory.html" xmlUrl="https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/amazon-cloudwatch-document-history.rss" />
             <outline type="rss" text="AWS Config" title="AWS Config" htmlUrl="https://docs.aws.amazon.com/config/latest/developerguide/DocumentHistory.html" xmlUrl="" />
             <outline type="rss" text="AWS Health" title="AWS Health" htmlUrl="https://docs.aws.amazon.com/health/latest/ug/doc-history.html" xmlUrl="" />
             <outline type="rss" text="AWS OpsWorks" title="AWS OpsWorks" htmlUrl="https://docs.aws.amazon.com/opsworks/latest/userguide/history.html" xmlUrl="https://docs.aws.amazon.com/opsworks/latest/userguide/opsworks-doc-release-notes.rss" />
             <outline type="rss" text="AWS Service Catalog" title="AWS Service Catalog" htmlUrl="https://docs.aws.amazon.com/servicecatalog/latest/adminguide/history.html" xmlUrl="" />
             <outline type="rss" text="AWS Systems Manager" title="AWS Systems Manager" htmlUrl="https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-release-history.html" xmlUrl="https://docs.aws.amazon.com/systems-manager/latest/userguide/aws-systems-manager-user-guide-updates.rss" />
-            <outline type="rss" text="AWS Tools for Powershell" title="AWS Tools for Powershell" htmlUrl="https://docs.aws.amazon.com/powershell/latest/userguide/history-pst.html" xmlUrl="" />
+            <outline type="rss" text="AWS Tools for Powershell" title="AWS Tools for Powershell" htmlUrl="https://docs.aws.amazon.com/powershell/latest/userguide/history-pst.html" xmlUrl="https://docs.aws.amazon.com/powershell/latest/userguide/toolsforpowershell.rss" />
             <outline type="rss" text="AWS Trusted Advisor" title="AWS Trusted Advisor" htmlUrl="https://docs.aws.amazon.com/awssupport/latest/user/History.html" xmlUrl="" />
             <outline type="rss" text="AWS Well-Architected Tool" title="AWS Well-Architected Tool" htmlUrl="https://docs.aws.amazon.com/wellarchitected/latest/userguide/doc-history.html" xmlUrl="" />
         </outline>
         <outline text="08-Migration" title="08-Migration">
-            <outline type="rss" text="AWS Application Discovery Service" title="AWS Application Discovery Service" htmlUrl="https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html" xmlUrl="" />
+            <outline type="rss" text="AWS Application Discovery Service" title="AWS Application Discovery Service" htmlUrl="https://docs.aws.amazon.com/application-discovery/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/application-discovery/latest/userguide/aws-application-discovery-service-user-guide-updates.rss" />
             <outline type="rss" text="AWS Database Migration Service" title="AWS Database Migration Service" htmlUrl="https://docs.aws.amazon.com/dms/latest/userguide/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/dms/latest/userguide/aws-dms-updates.rss" />
             <outline type="rss" text="AWS DataSync" title="AWS DataSync" htmlUrl="https://docs.aws.amazon.com/datasync/latest/userguide/doc-history.html" xmlUrl="" />
-            <outline type="rss" text="AWS Migration Hub" title="AWS Migration Hub" htmlUrl="https://docs.aws.amazon.com/migrationhub/latest/ug/document-history.html" xmlUrl="" />
+            <outline type="rss" text="AWS Migration Hub" title="AWS Migration Hub" htmlUrl="https://docs.aws.amazon.com/migrationhub/latest/ug/document-history.html" xmlUrl="https://docs.aws.amazon.com/migrationhub/latest/ug/aws-migration-hub-user-guide-updates.rss" />
             <outline type="rss" text="AWS Schema Conversion Tool" title="AWS Schema Conversion Tool" htmlUrl="https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/aws-sct-updates.rss" />
             <outline type="rss" text="AWS Server Migration Service" title="AWS Server Migration Service" htmlUrl="https://docs.aws.amazon.com/server-migration-service/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/server-migration-service/latest/userguide/server-migration-service-release-notes.rss" />
             <outline type="rss" text="AWS Snowball" title="AWS Snowball" htmlUrl="https://docs.aws.amazon.com/snowball/latest/ug/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/snowball/latest/ug/aws-snowball-user-guide-updates.rss" />
@@ -108,8 +108,8 @@
             <outline type="rss" text="AWS AppSync" title="AWS AppSync" htmlUrl="https://docs.aws.amazon.com/appsync/latest/devguide/welcome.html" xmlUrl="" />
             <outline type="rss" text="AWS Device Farm" title="AWS Device Farm" htmlUrl="https://docs.aws.amazon.com/devicefarm/latest/developerguide/history.html" xmlUrl="" />
             <outline type="rss" text="Amazon Mobile  Analytics" title="Amazon Mobile  Analytics" htmlUrl="https://docs.aws.amazon.com/mobileanalytics/latest/ug/document-history.html" xmlUrl="" />
-            <outline type="rss" text="Amazon Pinpoint" title="Amazon Pinpoint" htmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/doc-history.html" xmlUrl="" />
-            <outline type="rss" text="Amazon SNS" title="Amazon SNS" htmlUrl="https://docs.aws.amazon.com/sns/latest/dg/document-history.html" xmlUrl="" />
+            <outline type="rss" text="Amazon Pinpoint" title="Amazon Pinpoint" htmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/amazon-pinpoint-user-guide-rss-updates.rss" />
+            <outline type="rss" text="Amazon SNS" title="Amazon SNS" htmlUrl="https://docs.aws.amazon.com/sns/latest/dg/document-history.html" xmlUrl="https://docs.aws.amazon.com/sns/latest/dg/recent-updates.rss" />
         </outline>
         <outline text="10-NetworkContentDelivery" title="10-NetworkContentDelivery">
             <outline type="rss" text="Amazon API Gateway" title="Amazon API Gateway" htmlUrl="https://docs.aws.amazon.com/apigateway/latest/developerguide/history.html" xmlUrl="https://docs.aws.amazon.com/apigateway/latest/developerguide/amazon-apigateway-release-notes.rss" />
@@ -119,7 +119,7 @@
             <outline type="rss" text="AWS Direct Connect" title="AWS Direct Connect" htmlUrl="https://docs.aws.amazon.com/directconnect/latest/UserGuide/AboutThisGuide.html" xmlUrl="https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-release-notes.rss" />
             <outline type="rss" text="Application Load Balancers" title="Application Load Balancers" htmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/application/doc-history.html" xmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/application/application-load-balancer-release-notes.rss" />
             <outline type="rss" text="Network Load Balancers" title="Network Load Balancers" htmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/network/doc-history.html" xmlUrl="https://docs.aws.amazon.com/elasticloadbalancing/latest/network/network-load-balancer-release-notes.rss" />
-            <outline type="rss" text="AWS Global Accelerator" title="AWS Global Accelerator" htmlUrl="https://docs.aws.amazon.com/global-accelerator/latest/dg/WhatsNew.html" xmlUrl="" />
+            <outline type="rss" text="AWS Global Accelerator" title="AWS Global Accelerator" htmlUrl="https://docs.aws.amazon.com/global-accelerator/latest/dg/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/global-accelerator/latest/dg/amazon-aga-doc-releases.rss" />
             <outline type="rss" text="Amazon Route 53" title="Amazon Route 53" htmlUrl="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/History.html" xmlUrl="https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/amazon-route-53-release-notes.rss" />
             <outline type="rss" text="Amazon VPC" title="Amazon VPC" htmlUrl="https://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/vpc/latest/userguide/amazon-vpc-release-notes.rss" />
         </outline>
@@ -156,7 +156,7 @@
         </outline>
         <outline text="14-ApplicationIntegration" title="14-ApplicationIntegration">
             <outline type="rss" text="Amazon MQ" title="Amazon MQ" htmlUrl="https://docs.aws.amazon.com/amazon-mq/latest/developer-guide/amazon-mq-release-notes.html" xmlUrl="https://docs.aws.amazon.com/amazon-mq/latest/developer-guide/recent-updates.rss" />
-            <outline type="rss" text="Amazon SNS" title="Amazon SNS" htmlUrl="https://docs.aws.amazon.com/sns/latest/dg/document-history.html" xmlUrl="" />
+            <outline type="rss" text="Amazon SNS" title="Amazon SNS" htmlUrl="https://docs.aws.amazon.com/sns/latest/dg/document-history.html" xmlUrl="https://docs.aws.amazon.com/sns/latest/dg/recent-updates.rss" />
             <outline type="rss" text="Amazon SQS" title="Amazon SQS" htmlUrl="https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-release-notes.html" xmlUrl="https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/recent-updates.rss" />
             <outline type="rss" text="AWS Step Functions" title="AWS Step Functions" htmlUrl="https://docs.aws.amazon.com/step-functions/latest/dg/document-history.html" xmlUrl="https://docs.aws.amazon.com/step-functions/latest/dg/recent-updates.rss" />
             <outline type="rss" text="Amazon SWF" title="Amazon SWF" htmlUrl="https://docs.aws.amazon.com/amazonswf/latest/developerguide/WhatsNew.html" xmlUrl="https://docs.aws.amazon.com/amazonswf/latest/developerguide/recent-updates.rss" />
@@ -188,11 +188,11 @@
             <outline type="rss" text="Amazon Lumberyard" title="Amazon Lumberyard" htmlUrl="https://docs.aws.amazon.com/lumberyard/latest/gettingstartedguide/intro.html" xmlUrl="" />
         </outline>
         <outline text="20-ARVR" title="20-ARVR">
-            <outline type="rss" text="Amazon Sumerian" title="Amazon Sumerian" htmlUrl="https://docs.aws.amazon.com/sumerian/latest/userguide/amazon-sumerian.html" xmlUrl="" />
+            <outline type="rss" text="Amazon Sumerian" title="Amazon Sumerian" htmlUrl="https://docs.aws.amazon.com/sumerian/latest/userguide/amazon-sumerian.html" xmlUrl="https://docs.aws.amazon.com/sumerian/latest/userguide/feed.rss" />
         </outline>
         <outline text="21-CustomerEngagement" title="21-CustomerEngagement">
-            <outline type="rss" text="Amazon Connect" title="Amazon Connect" htmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/amazon-connect-release-notes.rss" />
-            <outline type="rss" text="Amazon Pinpoint" title="Amazon Pinpoint" htmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/doc-history.html" xmlUrl="" />
+            <outline type="rss" text="Amazon Connect" title="Amazon Connect" htmlUrl="https://docs.aws.amazon.com/connect/latest/adminguide/doc-history.html" xmlUrl="" />
+            <outline type="rss" text="Amazon Pinpoint" title="Amazon Pinpoint" htmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/doc-history.html" xmlUrl="https://docs.aws.amazon.com/pinpoint/latest/userguide/amazon-pinpoint-user-guide-rss-updates.rss" />
             <outline type="rss" text="Amazon Simple Email Service" title="Amazon Simple Email Service" htmlUrl="https://docs.aws.amazon.com/ses/latest/DeveloperGuide/doc-history.html" xmlUrl="" />
         </outline>
     </body>
