@@ -33,7 +33,7 @@
             <outline type="rss" text="AWS Open Source Blog" title="AWS Open Source Blog" htmlUrl="https://aws.amazon.com/blogs/opensource/" xmlUrl="https://aws.amazon.com/blogs/opensource/feed" />
             <outline type="rss" text="AWS Public Sector Blog" title="AWS Public Sector Blog" htmlUrl="https://aws.amazon.com/blogs/publicsector/" xmlUrl="https://aws.amazon.com/blogs/publicsector/feed" />
             <outline type="rss" text="AWS Quantum Computing Blog" title="AWS Quantum Computing Blog" htmlUrl="https://aws.amazon.com/blogs/quantum-computing/" xmlUrl="https://aws.amazon.com/blogs/quantum-computing/feed"/>
-            <outline type="rss" text="AWS Robotics Blog" text="AWS Robotics Blog" htmlUrl="https://aws.amazon.com/blogs/robotics/" xmlUrl="https://aws.amazon.com/blogs/robotics/feed" />
+            <outline type="rss" text="AWS Robotics Blog" htmlUrl="https://aws.amazon.com/blogs/robotics/" xmlUrl="https://aws.amazon.com/blogs/robotics/feed" />
             <outline type="rss" text="AWS for SAP" title="AWS for SAP" htmlUrl="https://aws.amazon.com/blogs/awsforsap/" xmlUrl="https://aws.amazon.com/blogs/awsforsap/feed" />
             <outline type="rss" text="AWS Security Blog" title="AWS Security Blog" htmlUrl="https://aws.amazon.com/blogs/security/" xmlUrl="https://aws.amazon.com/blogs/security/feed" />
             <outline type="rss" text="AWS Startups Blog" title="AWS Startups Blog" htmlUrl="https://aws.amazon.com/blogs/startups/" xmlUrl="https://aws.amazon.com/blogs/startups/feed" />
